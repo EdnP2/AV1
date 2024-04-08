@@ -17,3 +17,10 @@
 ## O que é VS Code?
 
 #### O VS Code é um Editor de Código, o qual possui as funcionalidades de edição de código com suporte a várias linguagens de programação; terminal de comandos integrado; controle de versão; entre mais algumas coisas.
+![img](https://images.ctfassets.net/zsjhz5fgria0/1IH1y6oyYqrdsj5mtYyB3K/cb979ab091dbb7fd19fbe97388a0ec48/Screenshot_2020-03-11_at_22.07.22.png?w=700&h=400&fl=progressive&q=50&fit=fill)
+
+*VS Code*
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Rc9UTaFYf0cowz5xO8NYyLULOwoEWbZnsw&s)
+
+*Git e GitHub*
